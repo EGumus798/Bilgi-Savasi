@@ -1,0 +1,20 @@
+{
+  "sinemaquestions": [
+    {
+      "question":"Hobbit film serisinin ünlü yönetmeni kimdir?",
+      "answer1": "A)Peter Jackson",
+      "answer2": "B)Bryan Singer",
+      "answer3": "C)Ridley Scott",
+      "answer4": "D)Nuri Bilge Ceylan",
+      "correct": "A)Peter Jackson"
+    },
+    {
+      "question":"Cem Yılmaz'ın Yahşi Batı filminde satılmak istenen ve film boyunca hikâyesi anlatılan değerli eşya hangisidir?",
+      "answer1": "A)Necefli maşrapa",
+      "answer2": "B)Elmas",
+      "answer3": "C)Padişah tuğrası",
+      "answer4": "D)Silah",
+      "correct": "B)Elmas"
+    }
+  ]
+}

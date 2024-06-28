@@ -1,0 +1,20 @@
+{
+  "bilimquestions": [
+    {
+      "question":"Doğru akımın temsilcisi olarak bilinen ünlü bilim adamı kimdir?",
+      "answer1": "A)Nikola Tesla",
+      "answer2": "B)Thomas Edison",
+      "answer3": "C)Andre Amper",
+      "answer4": "D)Hiçbiri",
+      "correct": "B)Thomas Edison"
+    },
+    {
+      "question":"Dünyada ilk defa alternatif akım patenti alan şirketin kurucusu, mucid ve bilim adamı kimdir?",
+      "answer1": "A)Nikola Tesla",
+      "answer2": "B)Thomas Edison",
+      "answer3": "C)George Westinghouse",
+      "answer4": "D) Werner von Siemens",
+      "correct": "C)George Westinghouse"
+    }
+  ]
+}

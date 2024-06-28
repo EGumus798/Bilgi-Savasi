@@ -1,0 +1,20 @@
+{
+  "edebiyatquestions": [
+    {
+      "question":"Aşağıdaki cümlelerin hangisi yazı dilinin özelliklerini yansıtmaz?",
+      "answer1": "A)O kadar üşümüş ki içeri girdiğinde üzerindeki ceketi çıkarmakta zorlandı.",
+      "answer2": "B)Yaz gelince çocukları için ağacın dalına salıncak kurardı.",
+      "answer3": "C)Haydi yavrum, şura bahçaya varıvir de üç beş soğan dalla gel.",
+      "answer4": "D)Yaşlı kadının elindeki çantayı aldı, evine kadar götürüverdi.",
+      "correct": "C)Haydi yavrum, şura bahçaya varıvir de üç beş soğan dalla gel."
+    },
+    {
+      "question":"Aşağıdakilerden hangisi Türklerin kullandığı alfabelerden değildir?",
+      "answer1": "A)Arap alfabesi",
+      "answer2": "B)Göktürk alfabesi",
+      "answer3": "C)Uygur alfabesi",
+      "answer4": "D)Hint alfabesi",
+      "correct": "D)Hint alfabesi"
+    }
+  ]
+}

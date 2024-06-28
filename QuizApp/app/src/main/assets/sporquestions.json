@@ -1,0 +1,20 @@
+{
+  "sporquestions": [
+    {
+      "question":"Hangi spor en çok 'sporun kralı' olarak bilinir?",
+      "answer1": "A)Basketbol",
+      "answer2": "B)Voleybol",
+      "answer3": "C)E-Spor",
+      "answer4": "D)Futbol",
+      "correct": "D)Futbol"
+    },
+    {
+      "question":"Aşağıdakilerden hangisi Süper Lig'de gol kralı olmuştur?",
+      "answer1": "A)Icardi",
+      "answer2": "B)Vincent Aboubakar",
+      "answer3": "C)Ricardo Quaresma",
+      "answer4": "D)Alex de Souza",
+      "correct": "D)Alex de Souza"
+    }
+  ]
+}

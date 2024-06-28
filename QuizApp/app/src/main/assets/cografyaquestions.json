@@ -1,0 +1,21 @@
+
+{
+  "cografyaquestions": [
+    {
+      "question":"Aşağıdakilerden hangisi coğrafya biliminin incelediği konular arasında yer almaz? ",
+      "answer1": "A)Doğal afetler",
+      "answer2": "B)Yeryüzü şekilleri",
+      "answer3": "C)Yerin şekli ve hareketleri",
+      "answer4": "D)Ekonomik faaliyetler",
+      "correct": "D)Ekonomik faaliyetler"
+    },
+    {
+      "question":"Aşağıdaki ülkelerden hangisi Türkiyenin sınır komşusu değildir?",
+      "answer1": "A)Yunanistan",
+      "answer2": "B)Azerbaycan",
+      "answer3": "C)Ermenistan",
+      "answer4": "D)Arabistan",
+      "correct": "D)Arabistan"
+    }
+  ]
+}

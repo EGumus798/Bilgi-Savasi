@@ -1,0 +1,20 @@
+{
+  "genelkulturquestions": [
+    {
+      "question":"2003 Yılında Euro Vizyon Şarkı Yarışmasında Ülkemizi Temsil Eden ve Yarışmada Birinci Gelen Sanatçımız Kimdir?",
+      "answer1": "A)Grup Athena",
+      "answer2": "B)Sertap Erener",
+      "answer3": "C)Şebnem Paker",
+      "answer4": "D)Ajda Pekkan",
+      "correct": "B)Sertap Erener"
+    },
+    {
+      "question":"Mustafa Kemal Atatürk’ün Nüfusa Kayıtlı Olduğu İl Hangisidir?",
+      "answer1": "A)Bursa",
+      "answer2": "B)Ankara",
+      "answer3": "C)İstanbul",
+      "answer4": "D)Gaziantep",
+      "correct": "D)Gaziantep"
+    }
+  ]
+}

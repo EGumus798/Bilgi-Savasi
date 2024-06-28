@@ -1,0 +1,20 @@
+{
+  "yazilimquestions": [
+    {
+      "question":"Aşağıdakilerden hangisi makine dilinin özelliklerinden değildir?",
+      "answer1": "A)Bilgisayarın doğal dilidir",
+      "answer2": "B)Bilgisayarın donanımsal tasarımına bağlıdır",
+      "answer3": "C)Doğrudan makineya hitap eder ",
+      "answer4": "D)Her işlemci için ortaktır",
+      "correct": "D)Her işlemci için ortaktır"
+    },
+    {
+      "question":"Aşağıdakilerden hangisi orta seviyeli dillerden değildir?",
+      "answer1": "A)C",
+      "answer2": "B)C++",
+      "answer3": "C)Pascal",
+      "answer4": "D)C#",
+      "correct": "C)Pascal"
+    }
+  ]
+}

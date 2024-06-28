@@ -1,0 +1,20 @@
+{
+  "sanatquestions": [
+    {
+      "question":"“Belleğin Azmi” adlı eser hangi ressama aittir?",
+      "answer1": "A)Caspar David Friedrich",
+      "answer2": "B)Rembrandt",
+      "answer3": "C)Salvador Dali",
+      "answer4": "D)Van Gogh",
+      "correct": "C)Salvador Dali"
+    },
+    {
+      "question":"“Çığlık” adlı eser hangi ressama aittir?",
+      "answer1": "A)Edward Munch",
+      "answer2": "B)Amedeo Modigliani",
+      "answer3": "C)Camille Pissarro",
+      "answer4": "D)Rembrandt",
+      "correct": "B)Edward Munch"
+    }
+  ]
+}

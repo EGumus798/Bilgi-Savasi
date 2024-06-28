@@ -1,0 +1,20 @@
+{
+  "muzikquestions": [
+    {
+      "question":"Aşağıdakilerden hangisi bir enstrüman değildir?",
+      "answer1": "A)Filarmoni",
+      "answer2": "B)Keman",
+      "answer3": "C)Mandolin",
+      "answer4": "D)Flüt",
+      "correct": "A)Filarmoni"
+    },
+    {
+      "question":"Aşağıdaki isimlerden hangisi klasik müzik alanında besteler yapmıştır?",
+      "answer1": "A)Wolfgang Amadeus Mozart",
+      "answer2": "B)Micheal Jackson",
+      "answer3": "C)Aleyna Tilki",
+      "answer4": "D)Hadise",
+      "correct": "A)Wolfgang Amadeus Mozart"
+    }
+  ]
+}

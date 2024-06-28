@@ -1,0 +1,20 @@
+{
+  "tarihquestions": [
+    {
+      "question":"Aşağıdakilerden hangisi Osmanlı Devleti’nin XVII. yüzyılda savaştığı devletlerden biri değildir?",
+      "answer1": "A)Avusturya",
+      "answer2": "B)İran",
+      "answer3": "C)İsveç",
+      "answer4": "D)Rusya",
+      "correct": "C)İsveç"
+    },
+    {
+      "question":"Fetret Devri hangi padişahın vefatından sonra başlamıştır?",
+      "answer1": "A)II.Murat",
+      "answer2": "B)Yıldırım Bayezid",
+      "answer3": "C)Yavuz Sultan Selim",
+      "answer4": "D)I.Mehmed",
+      "correct": "B)Yıldırım Bayezid"
+    }
+  ]
+}
